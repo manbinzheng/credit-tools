@@ -51,6 +51,8 @@ export default {
         { name: "交通银行", billDay: 27, repayDay: 21 },
         { name: "招商银行", billDay: 9, repayDay: 27 },
         { name: "平安银行", billDay: 18, repayDay: 6 },
+        { name: "建设银行", billDay: 18, repayDay: 6 },
+        { name: "中信银行", billDay: 16, repayDay: 5 },
       ],
       maxCards: [],
       freeDays: 0,
